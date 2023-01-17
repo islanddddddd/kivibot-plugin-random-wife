@@ -1,0 +1,11 @@
+{
+    "name": "kivibot-plugin-random-wife",
+    "version": "1.0.1",
+    "description": "随机老婆，或者随机老公",
+    "main": "index.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "author": "islanddddddd",
+    "license": "ISC"
+}
